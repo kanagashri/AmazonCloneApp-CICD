@@ -8,9 +8,9 @@ Basics of Terraform and Jenkins
 
 COMPLETE PROCESS OF ACHEIVEING THE CI/CD Pipeline for Deploying Amazon Clone Application.
 
-Step 1 → Setup Terraform and configure aws on your local machine 
-Step 2 → Building a simple Infrastructure from code using terraform 
+Step 1 → Setup Terraform and configure AWS on local machine 
+Step 2 → Building a simple Infrastructure as code(IaC) using terraform to provision the services
 Step 3 → Setup Sonarqube and jenkins 
-Step 4 → ci-cd pipeline 
-Step5 → Monitering via Prmotheus and grafana 
+Step 4 → CI-CD pipeline 
+Step 5 → Monitoring via Prmotheus and grafana 
 Step 6 → Terraform Destroy
